@@ -1,5 +1,5 @@
-## Oii eu sou Allana Alves 💟
-
+## Allana Alves 💟
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ad75ad&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Allana+Alves+Lima;I'm+22+years+old;I+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Atuando como Service Desk
 - 🌱 Em progresso - Frontend junior
